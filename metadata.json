@@ -1,0 +1,6 @@
+{
+  "name": "GNDU Placement Portal",
+  "description": "Campus placement and career portal for Guru Nanak Dev University, Amritsar connecting students, placement coordinators, and verified recruiters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
